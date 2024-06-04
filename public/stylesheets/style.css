@@ -2,13 +2,11 @@ body {
   padding: 40px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
-
 h1 {
   font-size: 2em;
   text-align: center;
   color: #69697e;
 }
-
 #search {
   display: flex;
   justify-content: center;
@@ -38,19 +36,16 @@ table {
 table, th, td {
   border: 2px solid #e5e1e1;
 }
-
 th, td {
   padding: 10px;
   text-align: center;
   color: #69697e;
 }
-
 label {
   font-size: 1.2em;
   font-weight: bold;
   color: #69697e;
 }
-
 canvas {
   display: none;
 }
